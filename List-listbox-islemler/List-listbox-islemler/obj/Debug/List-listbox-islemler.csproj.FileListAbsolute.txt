@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\List-listbox-islemler\List-listbox-islemler\bin\Debug\List-listbox-islemler.exe.config
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\List-listbox-islemler\List-listbox-islemler\bin\Debug\List-listbox-islemler.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\List-listbox-islemler\List-listbox-islemler\bin\Debug\List-listbox-islemler.pdb
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\List-listbox-islemler\List-listbox-islemler\obj\Debug\List-listbox-islemler.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\List-listbox-islemler\List-listbox-islemler\obj\Debug\List-listbox-islemler.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\List-listbox-islemler\List-listbox-islemler\obj\Debug\List_listbox_islemler.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\List-listbox-islemler\List-listbox-islemler\obj\Debug\List_listbox_islemler.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\List-listbox-islemler\List-listbox-islemler\obj\Debug\List-listbox-islemler.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\List-listbox-islemler\List-listbox-islemler\obj\Debug\List-listbox-islemler.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\List-listbox-islemler\List-listbox-islemler\obj\Debug\List-listbox-islemler.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\List-listbox-islemler\List-listbox-islemler\obj\Debug\List-listbox-islemler.pdb
